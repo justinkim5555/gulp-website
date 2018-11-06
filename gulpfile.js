@@ -15,7 +15,6 @@ gulp.task('styles', function(){
  });
 
 // Images
-
 gulp.task('images', function(){
   console.log('starting images task');
 });
